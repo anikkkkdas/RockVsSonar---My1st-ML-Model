@@ -53,9 +53,3 @@ This project uses a **Logistic Regression** model to classify sonar signals as e
 - **Classes**:  
   - `R` → Rock  
   - `M` → Mine  
-
-## Next Steps  
-
-- Try other classifiers (SVM, Random Forest, Neural Networks).  
-- Add cross-validation for robust evaluation.  
-- Visualize confusion matrix and ROC curves.  
